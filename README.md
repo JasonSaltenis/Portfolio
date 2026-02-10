@@ -1,2 +1,2 @@
 # Portfolio
-General Porfolio for hire-ability
+An example of some of the coding I have done.
