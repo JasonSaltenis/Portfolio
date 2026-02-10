@@ -1,0 +1,18 @@
+[submodule "SweetSpot_Game"]
+	path = SweetSpot_Game
+	url = https://github.com/JasonSaltenis/SweetSpot_Game
+[submodule "NeonNexus_Game"]
+	path = NeonNexus_Game
+	url = https://github.com/JasonSaltenis/NeonNexus_Game
+[submodule "ChecklistApp"]
+	path = ChecklistApp
+	url = https://github.com/JasonSaltenis/ChecklistApp
+[submodule "Minesweeper"]
+	path = Minesweeper
+	url = https://github.com/JasonSaltenis/Minesweeper
+[submodule "fc7b677aafbae75555241a506bea8abe"]
+	path = fc7b677aafbae75555241a506bea8abe
+	url = https://gist.github.com/JasonSaltenis/fc7b677aafbae75555241a506bea8abe
+[submodule "ca3668dd941bba39a63584f7e36083ae"]
+	path = ca3668dd941bba39a63584f7e36083ae
+	url = https://gist.github.com/JasonSaltenis/ca3668dd941bba39a63584f7e36083ae
